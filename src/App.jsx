@@ -1,7 +1,9 @@
+import { AppRoutes } from './routes/AppRoutes';
+
 function App() {
   return (
     <>
-      <p>this is verjax frontend</p>
+      <AppRoutes />
     </>
   );
 }
